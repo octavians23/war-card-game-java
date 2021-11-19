@@ -1,1 +1,1 @@
-# war-card-game-java
+War card game using Java.
