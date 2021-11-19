@@ -118,13 +118,13 @@ public class Main {
             flag = check_winner(player1, player2);
         }
 
-        for(PlayingCard card: player1){
-           System.out.println("Card " + (player1.indexOf(card)+1) + ": " + card);
-       }
-        System.out.println("=========================");
-        for(PlayingCard card: player2){
-            System.out.println("Card " + (player2.indexOf(card)+1) + ": " + card);
-        }
+//         for(PlayingCard card: player1){
+//            System.out.println("Card " + (player1.indexOf(card)+1) + ": " + card);
+//        }
+//         System.out.println("=========================");
+//         for(PlayingCard card: player2){
+//             System.out.println("Card " + (player2.indexOf(card)+1) + ": " + card);
+//         }
     }
 
     //tie method
